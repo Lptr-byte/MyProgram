@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 
-int main(){
+int main() {
     std::cout << "HelloWorld!";
 
     return 0;
