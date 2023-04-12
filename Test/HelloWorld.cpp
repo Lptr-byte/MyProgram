@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 int main() {
-    std::cout << "HelloWorld!";
+    std::cout << "HelloWorld!\n";
 
     return 0;
 }
