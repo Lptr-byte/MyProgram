@@ -32,7 +32,7 @@ void Solve() {
 }
 
 signed main(){
-    freopen("./out/X.out", "w", stdout);
+    //freopen("./out/X.out", "w", stdout);
     int t;
     cin >> t;
     while(t--)

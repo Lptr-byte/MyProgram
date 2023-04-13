@@ -24,7 +24,7 @@ void Solve() {
 }
 
 signed main(){
-    freopen("./out/W.out", "w", stdout);
+    //freopen("./out/W.out", "w", stdout);
     int t;
     cin >> t;
     while(t--)
