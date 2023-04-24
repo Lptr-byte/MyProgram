@@ -1,0 +1,2 @@
+# Introduction
+Good afternoon!It's my honor to stay here to intruduct myself today.My name is Gong Liuyang.I'm 19 years old and comes from JiangXi province.I am a shy boy and bad in communication.I like sleeping, reading and programming.And I think stay alone and enjoy the lonely time is the best way for me to relax.That‘s all.Thank for ur listening.
